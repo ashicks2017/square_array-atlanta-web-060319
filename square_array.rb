@@ -12,4 +12,4 @@ def square_array(array)
 end
 
 
-square_array(2)
+square_array(array)
