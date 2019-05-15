@@ -7,4 +7,6 @@ def square_array(array)
   numbers = numbers **2
   
   new_numbers<< numbers
+  end
+  new_numbers
 end
