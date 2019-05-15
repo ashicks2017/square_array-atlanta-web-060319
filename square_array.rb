@@ -11,3 +11,4 @@ def square_array(array)
   new_numbers
 end
 
+square_array(array)
